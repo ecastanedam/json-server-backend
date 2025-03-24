@@ -1,8 +1,5 @@
 {
-  "books": [
-    {
-      "kind": "books#volumes",
-      "totalItems": 1000000,
+    "books": {
       "items": [
         {
         "kind": "books#volume",
@@ -2789,6 +2786,6 @@
         }
         }
         ]
+        }
     }
-  ]
-}
+
