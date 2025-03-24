@@ -1,6 +1,5 @@
 {
-    "books": {
-      "items": [
+      "books": [
         {
         "kind": "books#volume",
         "id": "1",
@@ -2786,6 +2785,6 @@
         }
         }
         ]
-        }
+
     }
 
